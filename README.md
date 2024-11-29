@@ -1,2 +1,2 @@
-# Python-Templates
-Python templates for data science.
+# Data-Science-Templates
+Templates for data science mainly focusing on Python and SQL.
